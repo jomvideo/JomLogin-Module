@@ -1,6 +1,6 @@
 <?php
 /**
- * @version		$Id: view.html.php 283 2010-02-02 11:55:43Z subfighter $
+ * @version		$Id: view.html.php 28 2010-02-02 11:55:43Z subfighter $
  * @package:    MODULES:JOMLOGIN
  * @author      Jomtube Development http://www.jomtube.com
  * @copyright	Copyright (c) 2009-2010 JomTube Ltd. All rights reserved.
